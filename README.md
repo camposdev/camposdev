@@ -31,9 +31,6 @@ Experienced with UI/UX, HTML, CSS, Javascript, and libraries such as React, Reac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" />
 </div>
 
-
-
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camposdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposdev&layout=compact&langs_count=7&theme=dracula"/>
