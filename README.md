@@ -4,7 +4,7 @@
 
 I discovered my passion for technology when I was a designer and wanted to build my own creations. Focused on frontend development with great skills in UI/UX I build applications with the best languages and tools for the web.
 
-Experienced with UI/UX, HTML, CSS, Javascript, and libraries such as React, React Native, Angular, and Vue.
+Experienced with UI/UX, HTML, CSS, Javascript, Typescript, and libraries such as React, React Native, Angular, and Vue.
 
 #### ☕ Let's talk
 
