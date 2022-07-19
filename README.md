@@ -2,9 +2,9 @@
 
 #### 🚀 About me
 
-I discovered my passion for technology when I was a designer and wanted to code my own creations. Focused on front-end development with excellent skills in UI I build applications from UI design to code and maintenance with the best languages and tools for the web.
+I discovered my passion for technology when I was a designer and wanted to code my own creations. Focused on front-end development with excellent UI skills, I have built several applications from UI design to coding and maintenance with the best languages and tools for the web.
 
-Experienced with UI, HTML5, CSS3, Javascript, Typescript, and libraries such as React, React Native, Angular, and Vue.
+Proactive, very detail-oriented, and a clean-code enthusiast I have experience with UI, HTML5, CSS3 (SASS, LESS, and Stylus), Javascript (ES6), Typescript, PHP, WordPress, and libraries like jQuery, React, React Native, AngularJS, Angular 2+, Vue, and testing libraries like Jest, Enzyme, and React Testing Library.
 
 #### ☕ Let's talk
 
