@@ -2,9 +2,9 @@
 
 #### 🚀 About me
 
-I discovered my passion for technology when I was a designer and wanted to code my own creations. Focused on front-end development with excellent UI skills, I have built several applications from UI design to coding and maintenance with the best languages and tools for the web.
+Front-end developer with over 12 years of experience, specialized in creating modern and functional interfaces. My expertise ranges from interface design to the full implementation of web applications, always with a focus on cutting-edge technology.
 
-Proactive, very detail-oriented, and a clean-code enthusiast I have experience with UI, HTML5, CSS3 (SASS, LESS, and Stylus), Javascript (ES6), Typescript, PHP, WordPress, and libraries like jQuery, React, React Native, AngularJS, Angular 2+, Vue, and testing libraries like Jest, Enzyme, and React Testing Library.
+Throughout my career, I’ve developed projects that bridge design and programming, ensuring aesthetically pleasing and high-performance solutions. I specialize in React and its ecosystem, where I apply best practices to deliver dynamic and responsive interfaces, always prioritizing clean, efficient, and maintainable code.
 
 #### ☕ Let's talk
 
