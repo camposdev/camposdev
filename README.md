@@ -2,7 +2,7 @@
 
 #### 🚀 About me
 
-Front-end developer with over 12 years of experience, specialized in creating modern and functional interfaces. My expertise ranges from interface design to the full implementation of web applications, always with a focus on cutting-edge technology.
+Front-end developer with over 14 years of experience, specialized in creating modern and functional interfaces. My expertise ranges from interface design to the full implementation of web applications, always with a focus on cuttingedge technology.
 
 Throughout my career, I’ve developed projects that bridge design and programming, ensuring aesthetically pleasing and high-performance solutions. I specialize in React and its ecosystem, where I apply best practices to deliver dynamic and responsive interfaces, always prioritizing clean, efficient, and maintainable code.
 
