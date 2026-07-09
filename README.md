@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Felipe Campos
 
-![Status](https://github.com/camposdev/camposdev/blob/main/profile-3d-contrib/profile-night-green.svg)
+<!-- ![Status](https://github.com/camposdev/camposdev/blob/main/profile-3d-contrib/profile-night-green.svg) -->
 
 #### ☕ Let's talk
 
